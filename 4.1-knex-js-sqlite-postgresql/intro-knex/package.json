@@ -1,0 +1,22 @@
+{
+  "name": "hellojs-knex",
+  "version": "1.0.0",
+  "description": "Shanaia",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrenoRM/hello-nodejs-v2-aula4/tree/master/4.1-knex-js-sqlite-postgresql"
+  },
+  "keywords": [
+    "hellojs"
+  ],
+  "author": "Breno R Monteiro",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "sqlite3": "^3.1.8"
+  }
+}
